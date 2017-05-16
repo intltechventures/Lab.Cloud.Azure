@@ -4,6 +4,9 @@
 Documentation
 * https://azure.microsoft.com/en-us/campaigns/developer-guide/
 * https://docs.microsoft.com/en-us/azure/
+* Hybrid Connectivity Gateway
+  * https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install
+  * https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
 
 News Articles
