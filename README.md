@@ -2,6 +2,7 @@
 
 
 Documentation
+* https://docs.microsoft.com/en-us/azure/
 * https://azure.microsoft.com/en-us/campaigns/developer-guide/
 * https://docs.microsoft.com/en-us/azure/
 * Hybrid Connectivity Gateway
