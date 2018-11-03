@@ -2,31 +2,39 @@
 Azure DevOps Resources
 ====
 
+### Documentation:
 * https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
 * https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/ 
   * Azure DevOps is included with your Visual Studio subscription 
     * https://azure.microsoft.com/en-us/services/devops/compare-features/
 
 
-Azure Pipelines
+### DevOps Marketplace, All
+* https://marketplace.visualstudio.com/search?target=AzureDevOps&category=All%20categories&sortBy=Downloads
+* re: Azure Test Plans
+  * https://marketplace.visualstudio.com/search?target=AzureDevOps&category=Azure%20Test%20Plans&sortBy=Downloads
+
+
+
+### Azure Pipelines
 * https://azure.microsoft.com/en-us/services/devops/pipelines/
 
 
-Azure Boards
+### Azure Boards
 * https://azure.microsoft.com/en-us/services/devops/boards/
 
 
-Azure Artifacts
+### Azure Artifacts
 * https://azure.microsoft.com/en-us/services/devops/artifacts/
 
 
 
-Azure Repos
+### Azure Repos
 * https://azure.microsoft.com/en-us/services/devops/repos/
 
 
 
-Azure Test Plans
+### Azure Test Plans
 * https://azure.microsoft.com/en-us/services/devops/test-plans/
 * Virtual User Machine (VUM)?
 * Feature: Test & Feedback (pperviously called: Exploratory Testing)
