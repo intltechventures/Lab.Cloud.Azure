@@ -1,7 +1,7 @@
-# Lab.Azure
+# Lab.Clud.Azure
 
 
-Documentation
+### Documentation
 * https://docs.microsoft.com/en-us/azure/
 * https://azure.microsoft.com/en-us/campaigns/developer-guide/
 * https://docs.microsoft.com/en-us/azure/
@@ -10,7 +10,8 @@ Documentation
   * https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
 
-News Articles
+### News Articles
+* 2018
 * 2017
   * https://www.infoq.com/news/2017/05/Hybrid-Connectivity-Gateway
 * https://azure.microsoft.com/en-us/blog/new-lower-azure-pricing/
