@@ -44,6 +44,7 @@ Azure DevOps Resources
 * https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
 * https://docs.microsoft.com/en-us/azure/devops-project/
 * https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/
+* https://developercommunity.visualstudio.com/spaces/21/index.html
 * https://stackoverflow.com/questions/tagged/azure-devops
 * https://devops.stackexchange.com/questions/tagged/azure
 * https://devops.stackexchange.com/questions/tagged/azure-devops
