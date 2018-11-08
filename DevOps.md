@@ -68,6 +68,8 @@ Azure DevOps Resources
 
 ### Interesting Articles
 * 2018
+  * 2018-11-07 [Source Control for Data Science – using Azure DevOps / VSTS with Jupyter Notebooks](
+https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/11/07/using-vsts-azure-devops-for-data-science-source-control-creating-a-collection-of-interactive-notebooks-and-outputs/)
   * 2018-10-31 [VistualStudioMagazine.com, Roadmap Updated for Azure DevOps (Formerly VSTS](https://visualstudiomagazine.com/articles/2018/10/31/azure-devops-roadmap.aspx)
 
 
