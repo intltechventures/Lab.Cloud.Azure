@@ -4,11 +4,75 @@ Azure DevOps Resources
 (Azure DevOps, formerly VSTS)
 
 
-### Documentation:
+### References / Resources / Documentation:
+* https://azure.microsoft.com/en-us/services/devops/
+* https://azure.microsoft.com/en-us/solutions/devops/
+* https://azure.microsoft.com/en-us/overview/devops/
 * https://azure.microsoft.com/en-us/blog/introducing-azure-devops/
+* https://azure.microsoft.com/en-us/features/devops-projects/
+  * "Build any Azure application, on any Azure service, in less than five minutes"
 * https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/ 
   * Azure DevOps is included with your Visual Studio subscription 
     * https://azure.microsoft.com/en-us/services/devops/compare-features/
+* https://azure.microsoft.com/en-us/community/events/devops/
+* https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+* https://azure.microsoft.com/en-us/pricing/details/devops/azure-pipelines/
+* https://docs.microsoft.com/en-us/azure/devops/index?view=vsts
+* Azure DevOps CLI
+  * https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+  * https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
+* Azure DevOps REST API References
+  * https://docs.microsoft.com/en-us/rest/api/vsts/?view=vsts-rest-4.1
+* Azure DevOps Documentation Index 
+  * https://docs.microsoft.com/en-us/azure/devops/index-all?view=vsts
+  * https://docs.microsoft.com/en-us/azure/devops/?view=vsts
+* Azure DevOps Resource Center
+  * https://docs.microsoft.com/en-us/azure/devops/learn/
+* https://docs.microsoft.com/en-us/azure/architecture/
+  * https://docs.microsoft.com/en-us/azure/architecture/guide/
+* https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
+* General Azure References
+  * https://docs.microsoft.com/en-us/azure/
+  * 
+
+
+### News Sources
+* https://twitter.com/AzureDevOps
+* https://blogs.msdn.microsoft.com/devops/
+* https://docs.microsoft.com/en-us/azure/devops/release-notes/
+
+
+### Learning / Tutorial Resources
+* https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
+* https://docs.microsoft.com/en-us/azure/devops-project/
+* https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/
+* https://stackoverflow.com/questions/tagged/azure-devops
+* https://devops.stackexchange.com/questions/tagged/azure
+* https://devops.stackexchange.com/questions/tagged/azure-devops
+* Introduction to Azure DevOps
+  * https://www.youtube.com/watch?v=JhqpF-5E10I
+* Azure DevOps Launch Keynote, 2018
+  * https://www.youtube.com/watch?v=OtqFyBA6Dbk
+* Microsoft Channel 9
+  * https://channel9.msdn.com/Tags/devops
+* Microsoft Visual Studio
+  * https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w
+* Microsoft Azure 
+  * https://www.youtube.com/user/windowsazure
+
+
+
+### Events and Talks
+* https://docs.microsoft.com/en-us/azure/devops/learn/events-and-talks/
+* Azure DevOps Youtube Channel
+  * https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA 
+
+
+### Interesting Articles
+* 2018
+  * 2018-10-31 [VistualStudioMagazine.com, Roadmap Updated for Azure DevOps (Formerly VSTS](https://visualstudiomagazine.com/articles/2018/10/31/azure-devops-roadmap.aspx)
+
+
 
 
 ### DevOps Marketplace, All
@@ -20,6 +84,8 @@ Azure DevOps Resources
 
 ### Azure Pipelines
 * https://azure.microsoft.com/en-us/services/devops/pipelines/
+* https://github.com/marketplace/azure-pipelines
+* https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=vsts
 * Marketplace Widgets
   * https://marketplace.visualstudio.com/items?itemName=ms-azuredevtestlabs.tasks
     * This extension provides several build / release tasks to allow you to integrate with Azure DevTest Labs.
@@ -54,6 +120,9 @@ Azure DevOps Resources
     * Integrate your JFrog Artifactory with Visual Studio Team Services.
   * https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-trigger
     * https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-trigger
+* Articles
+  * 2018  
+    * https://blogs.msdn.microsoft.com/devops/2018/10/25/test-analytics-in-azure-pipelines-is-now-at-your-fingertips/
 
 
 
@@ -65,7 +134,6 @@ Azure DevOps Resources
 * https://azure.microsoft.com/en-us/services/devops/artifacts/
 
 
-
 ### Azure Repos
 * https://azure.microsoft.com/en-us/services/devops/repos/
 
@@ -73,6 +141,15 @@ Azure DevOps Resources
 
 ### Azure Test Plans
 * https://azure.microsoft.com/en-us/services/devops/test-plans/
+* Exploratory & Manual Testing
+  * https://docs.microsoft.com/en-us/azure/devops/test/index?view=vsts
+* Perform User Acceptance Testing
+  * https://docs.microsoft.com/en-us/azure/devops/test/user-acceptance-testing?view=vsts
+* Control How Long to Keep Test Results
+  * https://docs.microsoft.com/en-us/azure/devops/test/how-long-to-keep-test-results?view=vsts
+* Run Unit Tests with Your Builds
+  * https://docs.microsoft.com/en-us/azure/devops/pipelines/test/getting-started-with-continuous-testing?view=vsts
+
 * Virtual User Machine (VUM)?
 * Feature: Test & Feedback (pperviously called: Exploratory Testing)
   * https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web
