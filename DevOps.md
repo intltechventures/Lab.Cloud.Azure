@@ -58,6 +58,9 @@ Azure DevOps Resources
   * https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w
 * Microsoft Azure 
   * https://www.youtube.com/user/windowsazure
+* Microsoft Virtual Academy, re: DevOps
+  * https://mva.microsoft.com/training-topics/devops#!lang=1033 
+
 
 
 
