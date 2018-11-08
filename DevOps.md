@@ -204,5 +204,5 @@ https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/11/07/using-vsts-azu
     * Run the Resharper Command-Line Tool and automatically fail builds when code quality issues are found. Configure team-shared coding rules for seamless code quality standards enforcement on each commit
   * https://marketplace.visualstudio.com/items?itemName=ms-azuredevtestlabs.tasks
     * This extension provides several build / release tasks to allow you to integrate with Azure DevTest Labs.
-
-
+  * https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web
+    * Now everyone on the team can own quality. Capture findings, create issues, and collaborate with the team, directly from the browser.
