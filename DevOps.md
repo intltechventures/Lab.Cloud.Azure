@@ -14,10 +14,8 @@ Azure DevOps Resources
 * https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/ 
   * Azure DevOps is included with your Visual Studio subscription 
     * https://azure.microsoft.com/en-us/services/devops/compare-features/
-* https://azure.microsoft.com/en-us/community/events/devops/
 * https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
 * https://azure.microsoft.com/en-us/pricing/details/devops/azure-pipelines/
-* https://docs.microsoft.com/en-us/azure/devops/index?view=vsts
 * Azure DevOps CLI
   * https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
   * https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
@@ -26,23 +24,23 @@ Azure DevOps Resources
 * Azure DevOps Documentation Index 
   * https://docs.microsoft.com/en-us/azure/devops/index-all?view=vsts
   * https://docs.microsoft.com/en-us/azure/devops/?view=vsts
-* Azure DevOps Resource Center
-  * https://docs.microsoft.com/en-us/azure/devops/learn/
-* https://docs.microsoft.com/en-us/azure/architecture/
-  * https://docs.microsoft.com/en-us/azure/architecture/guide/
-* https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
+  * https://docs.microsoft.com/en-us/azure/devops/index?view=vsts
 * General Azure References
   * https://docs.microsoft.com/en-us/azure/
-  * 
+  * https://docs.microsoft.com/en-us/azure/architecture/ 
+    * https://docs.microsoft.com/en-us/azure/architecture/guide/
+    * https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
 
 
 ### News Sources
 * https://twitter.com/AzureDevOps
 * https://blogs.msdn.microsoft.com/devops/
 * https://docs.microsoft.com/en-us/azure/devops/release-notes/
+* https://azure.microsoft.com/en-us/community/events/devops/
 
 
 ### Learning / Tutorial Resources
+* https://docs.microsoft.com/en-us/azure/devops/learn/
 * https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
 * https://docs.microsoft.com/en-us/azure/devops-project/
 * https://docs.microsoft.com/en-us/learn/modules/tour-azure-services-and-features/
