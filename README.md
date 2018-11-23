@@ -10,6 +10,11 @@
   * https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
 
+### Azure Stack (for on-prem deployments)
+* https://azure.microsoft.com/en-us/overview/azure-stack/
+  * https://azure.microsoft.com/en-us/resources/videos/microsoft-azure-stack-azure-services-on-premises/
+
+
 ### News Articles
 * 2018
 * 2017
