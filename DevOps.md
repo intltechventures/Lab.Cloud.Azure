@@ -124,9 +124,17 @@ https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/11/07/using-vsts-azu
     * Integrate your JFrog Artifactory with Visual Studio Team Services.
   * https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-trigger
     * https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-trigger
-* Articles
+* Azure DevOps Pipeline Articles
   * 2018  
     * https://blogs.msdn.microsoft.com/devops/2018/10/25/test-analytics-in-azure-pipelines-is-now-at-your-fingertips/
+    * [UI testing considerations](https://docs.microsoft.com/en-us/azure/devops/pipelines/test/ui-testing-considerations?view=vsts&tabs=mstest)
+    * [Run unit tests with your builds](https://docs.microsoft.com/en-us/azure/devops/pipelines/test/getting-started-with-continuous-testing?view=vsts)
+    * [Run Functional Tests task](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/test/run-functional-tests?view=vsts)
+    * [UI test with Selenium](https://docs.microsoft.com/en-us/azure/devops/pipelines/test/continuous-test-selenium?view=vsts)
+    * [Automating Selenium Tests in Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/Selenium/)
+    * [Azure DevOps Continuous Build/Deploy/Test with ASP.NET Core 2.2 Preview in One Hour](https://www.hanselman.com/blog/AzureDevOpsContinuousBuildDeployTestWithASPNETCore22PreviewInOneHour.aspx)
+  * 2017
+    * [How to Use Robot Framework Selenium Tests in a VSTS Release Pipeline](https://liftcodeplay.com/2017/11/13/how-to-use-robot-framework-selenium-tests-in-a-vsts-release-pipeline/)
 
 
 
@@ -145,14 +153,11 @@ https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/11/07/using-vsts-azu
 
 ### Azure Test Plans
 * https://azure.microsoft.com/en-us/services/devops/test-plans/
-* Exploratory & Manual Testing
-  * https://docs.microsoft.com/en-us/azure/devops/test/index?view=vsts
-* Perform User Acceptance Testing
-  * https://docs.microsoft.com/en-us/azure/devops/test/user-acceptance-testing?view=vsts
-* Control How Long to Keep Test Results
-  * https://docs.microsoft.com/en-us/azure/devops/test/how-long-to-keep-test-results?view=vsts
-* Run Unit Tests with Your Builds
-  * https://docs.microsoft.com/en-us/azure/devops/pipelines/test/getting-started-with-continuous-testing?view=vsts
+* [Exploratory & Manual Testing](https://docs.microsoft.com/en-us/azure/devops/test/index?view=vsts)
+* [Perform User Acceptance Testing](https://docs.microsoft.com/en-us/azure/devops/test/user-acceptance-testing?view=vsts)
+* [Control How Long to Keep Test Results](https://docs.microsoft.com/en-us/azure/devops/test/how-long-to-keep-test-results?view=vsts)
+* [Run Unit Tests with Your Builds](https://docs.microsoft.com/en-us/azure/devops/pipelines/test/getting-started-with-continuous-testing?view=vsts)
+
 
 * Virtual User Machine (VUM)?
 * Feature: Test & Feedback (pperviously called: Exploratory Testing)
