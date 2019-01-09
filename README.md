@@ -1,6 +1,11 @@
-# Lab.Clud.Azure
+Lab.Clud.Azure
+====
 
+### References
+* Azure products available by region
+  * https://azure.microsoft.com/en-us/global-infrastructure/services/
 
+  
 ### Documentation
 * https://docs.microsoft.com/en-us/azure/
 * https://azure.microsoft.com/en-us/campaigns/developer-guide/
