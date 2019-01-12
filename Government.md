@@ -31,14 +31,19 @@ Azure Government Resources
   * [Announcing Federal Security and Compliance Controls for Docker Datacenter](https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/)
   
  
-  
+ 
 ### Tutorials
-* Microsoft Azure Government Channel
-  * [Video list](https://www.youtube.com/playlist?list=PLLasX02E8BPA5IgCPjqWms5ne5h4briK7]
-  * [How to run containers with Kubernetes on Azure Government](https://www.youtube.com/watch?v=YA7hwf0FWn0)
-  * [How to use containers for data science on Azure Government](https://blogs.msdn.microsoft.com/azuregov/2018/08/08/how-to-use-containers-for-data-science-on-azure-government/)
-* MSDN Channel 9 
+* https://azure.microsoft.com/en-us/resources/videos/azure-government-overview/
+* Youtube Channel: Microsoft Azure Government
+  * Containers/Docker
+	* [Video list](https://www.youtube.com/playlist?list=PLLasX02E8BPA5IgCPjqWms5ne5h4briK7]
+    * [How to run containers with Kubernetes on Azure Government](https://www.youtube.com/watch?v=YA7hwf0FWn0)
+    * [How to use containers for data science on Azure Government](https://blogs.msdn.microsoft.com/azuregov/2018/08/08/how-to-use-containers-for-data-science-on-azure-government/)
+  * Serverless
+    * https://channel9.msdn.com/blogs/Azure-Government
+* MSDN Channel 9, Azure Government
   * https://channel9.msdn.com/blogs/Azure-Government
+  * [Azure Government Overview](https://channel9.msdn.com/Blogs/Microsoft-in-Government-SLGtv/Azure-Government-Overview)
   
   
   

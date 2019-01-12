@@ -20,18 +20,49 @@ Microsoft Azure Resources
   
 ### Cloud Services
 * https://docs.microsoft.com/en-us/azure/cloud-services/
-	* https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-choose-me
+  * https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-choose-me
 * Training Vidoes 
-    * https://azure.microsoft.com/en-us/resources/videos/index/?services=cloud-services
+  * https://azure.microsoft.com/en-us/resources/videos/index/?services=cloud-services
 * .NET
-	* https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-get-started
+  * https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-get-started
 * REST APIs
   * https://docs.microsoft.com/en-us/rest/api/compute/cloudservices/
   
   
+  
+### Azure Container Registry (ACR)
+* https://azure.microsoft.com/en-us/services/container-registry/
+  * "Azure Container Registry allows you to store images for all types of container deployments including DC/OS, Docker Swarm, Kubernetes, and Azure services such as App Service, Batch, Service Fabric, and others. Your DevOps team can manage the configuration of apps isolated from the configuration of the hosting environment."
+  * "You don’t have to learn new APIs or commands. Because Azure Container Registry is compatible with the open-source Docker Registry v2, you can use the same open-source Docker CLI tools you already know and the skills you have to efficiently interact with the registry."
+* https://docs.microsoft.com/en-us/azure/container-registry/
+* https://azure.microsoft.com/en-us/pricing/details/container-registry/
+  * "Azure Container Registry provides storage of private Docker container images, enabling fast, scalable retrieval, and network-close deployment of container workloads on Azure. Additional capabilities include geo-replication, image signing with Docker Content Trust, Helm Chart Repositories and Task base compute for building, testing, patching container workloads."
+* Github Resources
+  * https://github.com/Azure/acr
+    * https://github.com/Azure/acr/tree/master/docs
+	  * https://github.com/Azure/acr/blob/master/docs/acr-roadmap.md
+
+	
+  
 ### Azure Resource Manager (ARM)
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview
+
+
+### Azure Kubernetes Service (AKS)
+* https://docs.microsoft.com/en-us/azure/aks/
+* https://azure.microsoft.com/en-us/services/kubernetes-service/
+* https://azure.microsoft.com/en-us/updates/?product=kubernetes-service
+* https://github.com/Azure/AKS
+   https://github.com/Azure/AKS/blob/master/previews.md
+* https://github.com/Azure/aks-engine/
+  * https://github.com/Azure/aks-engine/blob/master/docs/README.md
+  * https://github.com/Azure/aks-engine/blob/master/docs/tutorials/README.md
+  * https://github.com/Azure/aks-engine/blob/master/docs/topics/README.md
+  
+  
+  
+### Azure Templates
 * https://azure.microsoft.com/en-us/resources/templates/
   * https://azure.microsoft.com/en-us/resources/templates/?term=docker&pageNumber=1 
     * https://azure.microsoft.com/en-us/resources/templates/docker-kibana-elasticsearch/
@@ -43,12 +74,9 @@ Microsoft Azure Resources
 	* https://azure.microsoft.com/en-us/resources/templates/docker-simple-on-ubuntu/
 	* https://azure.microsoft.com/en-us/resources/templates/301-jenkins-aks-zero-downtime-deployment/
 	* https://azure.microsoft.com/en-us/resources/templates/jenkins-cicd-container/
-* https://github.com/Azure/aks-engine/blob/master/docs/README.md
-  * https://github.com/Azure/aks-engine/blob/master/docs/tutorials/README.md
-
 
   
-### Container Instances
+### Azure Container Instances
 * https://docs.microsoft.com/en-us/azure/container-instances/
   * "Certain features of Azure Container Instances are in preview, and some limitations apply."
   * https://docs.microsoft.com/en-us/rest/api/container-instances/listcapabilities/listcapabilities
@@ -60,7 +88,7 @@ Microsoft Azure Resources
     * AKS-Engine: Units of Kubernetes on Azure! 
 	* "AKS-Engine provides convenient tooling to quickly bootstrap Kubernetes clusters on Azure. By leveraging ARM (Azure Resource Manager), AKS-Engine helps you create, destroy and maintain clusters provisioned with basic IaaS resources in Azure. AKS-Engine is also the library used by AKS for performing these operations to provide managed service implementations."
 	* https://github.com/Azure/aks-engine/blob/master/docs/README.md
-* Docker
+* Docker.com Resources
   * https://hub.docker.com/editions/enterprise/docker-ee-azure?tab=description
   * https://docs.docker.com/v17.09/docker-for-azure/
 	* https://docs.docker.com/v17.09/docker-for-azure/faqs/
@@ -70,6 +98,7 @@ Microsoft Azure Resources
 	* "All regions can be found here: Microsoft Azure Regions. An excerpt of the above regions to use when you create your service principal are:"
 	  * "usgovvirginia"
 	  * "usgoviowa"
+  * [Microsoft Azure Channel, How to run an app inside a container image with Docker | Azure Tips and Tricks](https://www.youtube.com/watch?v=lpr2tO-FCEw)
 * Visual Studio 2017 Support for Docker
   * [Using Visual Studio Tools for Docker (Visual Studio on Windows)](https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/design-develop-containerized-apps/visual-studio-tools-for-docker?toc=/visualstudio/docker/toc.json&bc=/visualstudio/docker/breadcrumb/toc.json&view=vs-2017)
     * "The Visual Studio Tools for Docker development workflow is similar to the workflow when using Visual Studio Code and Docker CLI. In fact, it's based on the same Docker CLI, but it's easier to get started, simplifies the process, and provides greater productivity for the build, run, and compose tasks. Execute and debug your containers via simple actions like F5 and Ctrl+F5. With the optional container orchestration support, in addition to being able to run and debug a single container, you can run and debug a group of containers (a whole solution) at the same time."
@@ -93,10 +122,9 @@ Microsoft Azure Resources
   * https://azure.microsoft.com/en-us/resources/videos/microsoft-azure-stack-azure-services-on-premises/
 
 
-### News Articles
-* 2018
-* 2017
-  * https://www.infoq.com/news/2017/05/Hybrid-Connectivity-Gateway
+  
+Interesting Azure News Articles
+====
 * https://azure.microsoft.com/en-us/blog/new-lower-azure-pricing/
 * https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-vm-storage-and-network-azure-cli-2-0/
 
