@@ -15,6 +15,9 @@ Azure Government Resources
 * Microsoft
   * https://blogs.msdn.microsoft.com/azuregov/tag/docker/
   * https://blogs.msdn.microsoft.com/azuregov/tag/containers/
+  * Articles
+    * 2016
+      * [2016-12-15 Docker announces federal security and compliance controls for Docker Datacenter built on Azure Blueprint](https://blogs.msdn.microsoft.com/azuregov/2016/12/15/docker-announces-federal-security-and-compliance-controls-for-docker-datacenter-built-on-azure-blueprint/)
 * Kubernetes
   * [Kubernetes on Azure Government](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-k8)
 * Docker.com 
@@ -26,9 +29,9 @@ Azure Government Resources
   * [Debugging apps in a local Docker container](https://docs.microsoft.com/en-us/visualstudio/docker/vs-azure-tools-docker-edit-and-refresh?view=vs-2017)
   * https://www.docker.com/solutions/government
   * [Using Visual Studio Tools for Docker (Visual Studio on Windows)(  https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/design-develop-containerized-apps/visual-studio-tools-for-docker?toc=/visualstudio/docker/toc.json&bc=/visualstudio/docker/breadcrumb/toc.json&view=vs-2017)
-  * 2016
-  * [Docker announces federal security and compliance controls for Docker Datacenter built on Azure Blueprint](https://blogs.msdn.microsoft.com/azuregov/2016/12/15/docker-announces-federal-security-and-compliance-controls-for-docker-datacenter-built-on-azure-blueprint/)
-  * [Announcing Federal Security and Compliance Controls for Docker Datacenter](https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/)
+  * Articles
+    * 2016
+      * [Announcing Federal Security and Compliance Controls for Docker Datacenter](https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/)
   
  
  
