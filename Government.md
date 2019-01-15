@@ -16,6 +16,12 @@ Azure Government Resources
   * https://blogs.msdn.microsoft.com/azuregov/tag/docker/
   * https://blogs.msdn.microsoft.com/azuregov/tag/containers/
   * Articles
+    * 2017
+      * https://blogs.msdn.microsoft.com/azuregov/2017/06/01/vm-images-update-february-may/
+        * "Marketplace Images* - Added to Azure Gov and DoD: *All Marketplace Images now supported in DoD Regions!"
+          * Docker EE for Azure (Basic)
+          * Cloudera CentOS and Data Hub Images 
+
     * 2016
       * [2016-12-15 Docker announces federal security and compliance controls for Docker Datacenter built on Azure Blueprint](https://blogs.msdn.microsoft.com/azuregov/2016/12/15/docker-announces-federal-security-and-compliance-controls-for-docker-datacenter-built-on-azure-blueprint/)
 * Kubernetes
