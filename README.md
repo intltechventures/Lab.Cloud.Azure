@@ -18,6 +18,11 @@ Microsoft Azure Resources
   * https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
   
+### News
+* https://azure.microsoft.com/en-us/blog/
+  * https://azure.microsoft.com/en-us/blog/archives/
+  
+  
 ### Cloud Services
 * https://docs.microsoft.com/en-us/azure/cloud-services/
   * https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-choose-me
@@ -28,7 +33,24 @@ Microsoft Azure Resources
 * REST APIs
   * https://docs.microsoft.com/en-us/rest/api/compute/cloudservices/
   
+
+### Azure Command Line Interface (CLI)
+* https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+* https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+* https://docs.microsoft.com/en-us/cli/azure/release-notes-azure-cli?view=azure-cli-latest
+* https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
+
+
   
+### Azure Cloud Shell 
+* https://shell.azure.com
+* https://docs.microsoft.com/en-us/azure/cloud-shell/overview
+  * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+  * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
+* https://docs.microsoft.com/en-us/azure/cloud-shell/features#tools
+
+
+
   
 ### Azure Container Registry (ACR)
 * https://azure.microsoft.com/en-us/services/container-registry/
@@ -78,7 +100,15 @@ Microsoft Azure Resources
   
 ### Azure Container Instances
 * https://docs.microsoft.com/en-us/azure/container-instances/
-  * "Certain features of Azure Container Instances are in preview, and some limitations apply."
+  * "Certain features of Azure Container Instances are in preview, and some limitations apply." 
+  "Azure Container Instances offers the fastest and simplest way to run a container in Azure, without having to provision any virtual machines and without having to adopt a higher-level service."
+  * https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart
+  * https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal
+  * https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-powershell
+  * https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/
+	* Docker:
+	  * https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+  * https://docs.microsoft.com/en-us/dotnet/api/overview/azure/containerinstance?view=azure-dotnet
   * https://docs.microsoft.com/en-us/rest/api/container-instances/listcapabilities/listcapabilities
     * Example: ```GET https://management.azure.com/subscriptions/{subscriptionId}/providers/Microsoft.ContainerInstance/locations/{location}/capabilities?api-version=2018-10-01```
   * https://github.com/Azure/acs-engine
@@ -123,9 +153,13 @@ Microsoft Azure Resources
 
 
   
-Interesting Azure News Articles
+### Interesting Azure News Articles
 ====
+* 2019
+  * [2019-01-15 Azure Monitor logs in Grafana - now in public preview](https://azure.microsoft.com/en-us/blog/azure-monitor-logs-in-grafana-now-in-public-preview/)
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/grafana-plugin
+	* https://grafana.com/
+	* https://grafana.com/plugins/grafana-azure-monitor-datasource
+  
 * https://azure.microsoft.com/en-us/blog/new-lower-azure-pricing/
 * https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-vm-storage-and-network-azure-cli-2-0/
-
-
