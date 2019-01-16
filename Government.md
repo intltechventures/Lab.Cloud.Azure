@@ -4,11 +4,22 @@ Azure Government Resources
 
 ### Azure Government References
 * https://azure.microsoft.com/en-us/global-infrastructure/government/
+* https://azure.microsoft.com/en-us/global-infrastructure/government/get-started/
 * https://docs.microsoft.com/en-us/azure/azure-government/
-* https://blogs.msdn.microsoft.com/azuregov/
 * https://feedback.azure.com/forums/558487-azure-government/
 * What Azure Services are available in Azure Government regions?
   * https://azure.microsoft.com/en-us/global-infrastructure/services/?regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia&products=al
+* [What is Azure Government?](https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome)
+  
+  
+### News
+* https://blogs.msdn.microsoft.com/azuregov/  
+* https://twitter.com/microsoft_gov
+
+
+### Documentation, Github Resources
+* https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/azure-government
+
 
   
 ### Azure Government tagged Docker/Container related resources/articles
@@ -21,7 +32,6 @@ Azure Government Resources
         * "Marketplace Images* - Added to Azure Gov and DoD: *All Marketplace Images now supported in DoD Regions!"
           * Docker EE for Azure (Basic)
           * Cloudera CentOS and Data Hub Images 
-
     * 2016
       * [2016-12-15 Docker announces federal security and compliance controls for Docker Datacenter built on Azure Blueprint](https://blogs.msdn.microsoft.com/azuregov/2016/12/15/docker-announces-federal-security-and-compliance-controls-for-docker-datacenter-built-on-azure-blueprint/)
 * Kubernetes
@@ -39,8 +49,7 @@ Azure Government Resources
     * 2016
       * [Announcing Federal Security and Compliance Controls for Docker Datacenter](https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/)
   
- 
- 
+
 ### Tutorials
 * https://azure.microsoft.com/en-us/resources/videos/azure-government-overview/
 * Youtube Channel: Microsoft Azure Government
@@ -58,3 +67,16 @@ Azure Government Resources
   
 ### Meetups
 * https://www.meetup.com/DCAzureGov/
+
+
+
+### News
+* 2019 
+* 2018
+  * [2018-03-15 rivate Function Apps in Azure Government using App Service Environment (ASE)](https://blogs.msdn.microsoft.com/mihansen/2018/03/15/private-function-apps-in-azure-government-using-app-service-environment-ase/)
+    * "It is easy to create APIs without having to worry about the underlying architecture and compute resources. In spite of the many advantages, they are not so easy to use for Government applications because they have a public endpoint that represents a potential attack surface and may be in conflict with Trusted Internet Connection (TIC) rules."
+	* "Since App Service is the foundation of Azure Functions...use an ILB ASE for hosting private Azure Functions in Azure Government."
+	* https://github.com/hansenms/iac/tree/master/ase
+  * [2018-02-28 On the Advantages of App Service Environment (ASE) for Government Web Apps](https://blogs.msdn.microsoft.com/mihansen/2018/02/28/on-the-advantages-of-app-service-environment-ase-for-government-web-apps/)
+  * [2018-02-25 Azure App Service Environment Available in Azure Government](https://blogs.msdn.microsoft.com/mihansen/2018/02/25/azure-app-service-environment-available-in-azure-government/)
+  
