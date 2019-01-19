@@ -8,6 +8,10 @@ Microsoft Azure Resources
 * Azure products available by region
   * https://azure.microsoft.com/en-us/global-infrastructure/services/
 
+### Pricing Information
+* https://azure.microsoft.com/en-us/pricing/calculator/
+* https://azure.microsoft.com/en-us/offers/pay-as-you-go/
+
   
 ### Documentation
 * https://docs.microsoft.com/en-us/azure/
@@ -24,7 +28,41 @@ Microsoft Azure Resources
   * https://azure.microsoft.com/en-us/blog/archives/
 * http://www.azpodcast.com/
 
-  
+
+### Storage
+* https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/premium-storage
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disks-standard-ssd
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disks-ultra-ssd
+
+
+### Sizes for Linux virtual machines in Azure
+* https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-general
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-compute
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-memory
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-hpc
+
+
+
+### Low Priority VMs
+* https://azure.microsoft.com/en-us/updates/public-preview-low-priority-vms-on-vm-scale-sets/
+* https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-use-low-priority
+  * "The amount of available unutilized capacity can vary based on size, region, time of day, and more. When deploying low-priority VMs on scale sets, Azure will allocate the VMs if there is capacity available, but there is no SLA for these VMs. A low-priority scale set is deployed in a single fault domain and offers no high availability guarantees."
+* https://azure.microsoft.com/en-us/blog/low-priority-scale-sets/
+  * "Low-priority VMs are available through VM scale sets with up to an 80 percent discount."
+  * "Low-priority VMs enable you to take advantage of our unutilized capacity. The amount of available unutilized capacity can vary based on size, region, time of day, and more. When deploying Low-priority VMs in VM scale sets, Azure will allocate the VMs if there is capacity available, but there are no SLA guarantees. At any point in time when Azure needs the capacity back, we will evict low-priority VMs"
+  * "viction Policy: When provisioning low-priority VMs, you can set the eviction policy. The two evictions policies that are supported are stop-deallocate on eviction and deleted on eviction. Stop-deallocate on eviction allows users to maintain the disks associated with these VMs. Users can try to restart the low priority in the scale set but remember, there are no allocation guarantees. The delete on eviction policy deletes the VM and all disks associated to the VM. "
+* https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/11/07/microsoft-azure-low-priority-virtual-machines-take-advantage-of-surplus-capacity-in-azure/
+  * "In general, batch processing workloads are a good fit, as jobs are broken into many parallel tasks or there are many jobs that are scaled out and distributed across many VMs."
+    * "Development and testing: In particular, if large-scale solutions are being developed, significant savings can be realized. All types of testing can benefit, but large-scale load testing and regression testing are great uses."
+    * "Supplementing on-demand capacity: Low-priority VMs can be used to supplement regular dedicated VMs - when available, jobs can scale and therefore complete quicker for lower cost; when not available, the baseline of dedicated VMs remains available."
+    * "Flexible job execution time: If there is flexibility in the time jobs have to complete, then potential drops in capacity can be tolerated; however, with the addition of low-priority VMs jobs frequently run faster and for a lower cost."
+* https://docs.microsoft.com/en-us/azure/batch/batch-low-pri-vms
+
+
+
 ### Cloud Services
 * https://docs.microsoft.com/en-us/azure/cloud-services/
   * https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-choose-me
