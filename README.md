@@ -2,11 +2,16 @@ Lab.Cloud.Azure
 ====
 Microsoft Azure Resources
 
+### Azure Status
+* https://azure.microsoft.com/en-us/status/
+* https://azure.microsoft.com/en-us/status/history/
+
 
 ### References
 * https://azure.microsoft.com/en-us/status/
 * Azure products available by region
   * https://azure.microsoft.com/en-us/global-infrastructure/services/
+
 
 ### Pricing Information
 * https://azure.microsoft.com/en-us/pricing/calculator/
