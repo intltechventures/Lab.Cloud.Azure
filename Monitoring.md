@@ -10,6 +10,7 @@ Azure Monitoring Resources
   * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview
   * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-overview
   * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-charts
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/om-agents
   * https://azure.microsoft.com/en-us/pricing/details/monitor/
 * Azure Government Monitoring
   * https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-monitoringandmanagement
@@ -23,8 +24,14 @@ Azure Monitoring Resources
 * Azure Operations Management Suite (OMS) 
   * https://azure.microsoft.com/en-us/services/virtual-machines/secure-well-managed-iaas/
     * (A subset of the capabilities described on this page were originally launched under the Operations Management Suite (OMS) brand and accessed from a standalone portal. These capabilities are now available in Azure.)
-   
   
+
+* Network Monitoring
+  * https://docs.microsoft.com/en-us/azure/networking/network-monitoring-overview
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/dns-analytics
+
+
+
 ### Third-Party Integration
 * Grafana
   * https://grafana.com/plugins/grafana-azure-monitor-datasource

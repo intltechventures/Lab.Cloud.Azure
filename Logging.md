@@ -129,7 +129,9 @@ Azure Logging & Log Analytics Resources
 
 
 ### Log Analytics
-* NOTE: Log Analytics is now a part of Operations Management Suite.
+* [Channel 9 Video: Azure Log Analytics](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Log-Analytics)
+* [Custom logs in Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-custom-logs)
+* NOTE: ```Log Analytics is now a part of Operations Management Suite.```
   * https://azure.microsoft.com/en-us/services/virtual-machines/secure-well-managed-iaas/
 * [Azure Log Analytics Feedback page](https://feedback.azure.com/forums/267889-log-analytics)
 * [Azure networking monitoring solutions in Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/azure-networking-analytics)
@@ -199,12 +201,40 @@ Azure Logging & Log Analytics Resources
   * "Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms. While it's useful even in the simplest applications, Serilog's support for structured logging shines when instrumenting complex, distributed, and asynchronous applications and systems."
   * https://github.com/serilog/serilog/wiki/Getting-Started
   * https://github.com/serilog/serilog/wiki
+* https://github.com/serilog/serilog-extensions-logging
+  * A Serilog provider for Microsoft.Extensions.Logging, the logging subsystem used by ASP.NET Core.
 * https://stackoverflow.com/questions/tagged/serilog
+* nuget.org
+  * [Serilog event sink that writes to Azure Analytics](https://www.nuget.org/packages/Serilog.Sinks.AzureAnalytics/)
+	* https://github.com/saleem-mirza/serilog-sinks-azure-analytics
 * Articles
+  * 2017
+    * [2017-04-26 ASP.NET Core Logging with Azure App Service and Serilog](https://blogs.msdn.microsoft.com/webdev/2017/04/26/asp-net-core-logging/)
   * 2016
     * [2016-07-01 Application logging to Azure using SeriLog](https://cmatskas.com/application-logging-to-azure-using-serilog/)
+* stackoverflow.com
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/export-power-bi
+* Pluralsight.com 
+  * https://www.pluralsight.com/courses/modern-structured-logging-serilog-seq
 
 
 
+### NLog
+* https://nlog-project.org/
+  * https://nlog-project.org/archives/
+* https://twitter.com/NLogOfficial
+* https://github.com/NLog/NLog/wiki
+* https://github.com/NLog/NLog/wiki/Tutorial
+* nuget.org	
+  * https://www.nuget.org/packages/NLog.config
+* https://github.com/NLog/NLog
+  * Log - Advanced and Structured Logging for Various .NET Platforms
+  * https://github.com/NLog/NLog/blob/master/CHANGELOG.md
 
+
+
+### SlideShare presentations
+* [What is going on? Application Diagnostics on Azure - Copenhagen .NET User Group](https://www.slideshare.net/maartenba/what-is-going-on-application-diagnostics-on-azure-copenhagen-net-user-group)
+* 2018
+  * [Azure Monitoring Overview](https://www.slideshare.net/gjuljo/azure-monitoring-overview?qid=86ecee85-46a5-4c4c-bc67-30faaecabb81&v=&b=&from_search=6)
 
