@@ -11,6 +11,7 @@ Microsoft Azure Resources
 * https://azure.microsoft.com/en-us/status/
 * Azure products available by region
   * https://azure.microsoft.com/en-us/global-infrastructure/services/
+* https://azure.microsoft.com/en-us/downloads/
 
 
 ### Pricing Information
