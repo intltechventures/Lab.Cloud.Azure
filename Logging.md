@@ -3,6 +3,12 @@ Azure Logging & Log Analytics Resources
 ====
 
 ### Microsoft Azure References
+* [Get started with Log Analytics in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal)
+* [Get started with queries in Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
+* [Search queries in Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/search-queries)
+
+
+### Azure Firewall
 * [Tutorial: Monitor Azure Firewall logs and metrics](https://docs.microsoft.com/en-us/azure/firewall/tutorial-diagnostics)
   * Activity logging is automatically enabled for every Resource Manager resource. Diagnostic logging must be enabled to start collecting the data available through those logs.
   * Diagnostic logs do not require a separate storage account. The use of storage for access and performance logging incurs service charges.
@@ -65,7 +71,67 @@ Azure Logging & Log Analytics Resources
       * "The firewall log is generated only if you have enabled it for each application gateway"
       
 
+
+### Azure Monitoring
+* https://azure.microsoft.com/en-us/solutions/monitoring/
+
+
+### Azure Monitor
+* https://azure.microsoft.com/en-us/services/monitor/
+* https://docs.microsoft.com/en-us/azure/azure-monitor/
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rebrand
+    * "```Log Analytics and Application Insights have been consolidated into Azure Monitor``` to provide a single integrated experience for monitoring Azure resources and hybrid environments"
+	* "None of the services that were part of OMS have changed, except for the consolidation into Azure Monitor"
+	* ```Retirement of Operations Management Suite brand```
+	  * "Operations Management Suite (OMS) was a bundling of the following Azure management services for licensing purposes:
+	    * Application Insights
+		* Azure Automation
+		* Azure Backup
+		* Log Analytics
+		* Site Recovery
+* https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+* https://docs.microsoft.com/en-us/azure/azure-monitor/app/distributed-tracing
+* https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
+
+
+### Application Insights
+* [Analytics in Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/analytics)
+* [Azure Monitor Application Insights Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/azure-monitor-app-hub) - VERY USEFUL LINK
+* https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+  * "Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. Use it to monitor your live web application. It will automatically detect performance anomalies. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app. It's designed to help you continuously improve performance and usability. It works for apps on a wide variety of platforms including .NET, Node.js and J2EE, hosted on-premises, hybrid, or any public cloud. It integrates with your DevOps process, and has connection points to a variety of development tools. It can monitor and analyze telemetry from mobile apps by integrating with Visual Studio App Center."
+  * [Video: Application Insights Animated Introduction](https://www.youtube.com/watch?v=fX2NtGrh-Y0)
+  * It montirs:
+    * Request rates, response times, and failure rates - Find out which pages are most popular, at what times of day, and where your users are. See which pages perform best. If your response times and failure rates go high when there are more requests, then perhaps you have a resourcing problem.
+    * Dependency rates, response times, and failure rates - Find out whether external services are slowing you down.
+    * Exceptions - Analyse the aggregated statistics, or pick specific instances and drill into the stack trace and related requests. Both server and browser exceptions are reported.
+    * Page views and load performance - reported by your users' browsers.
+    * AJAX calls from web pages - rates, response times, and failure rates.
+    * User and session counts.
+    * Performance counters from your Windows or Linux server machines, such as CPU, memory, and network usage.
+    * Host diagnostics from Docker or Azure.
+    * Diagnostic trace logs from your app - so that you can correlate trace events with requests.
+    * Custom events and metrics that you write yourself in the client or server code, to track business events such as items sold or games won.
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/proactive-diagnostics
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-map
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/profiler
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-overview
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/diagnostic-search
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/metrics-explorer
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-dashboards#dashboards
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/live-stream
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/analytics
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/visual-studio
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger
+  * https://docs.microsoft.com/en-us/azure/azure-monitor/app/export-power-bi
+* [Overview of Application Insights for DevOps](https://docs.microsoft.com/en-us/azure/azure-monitor/app/detect-triage-diagnose)
+* [Diagnose exceptions in your web apps with Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-exceptions)
+* [Video: Application Performance Management with Azure Application Insights](https://channel9.msdn.com/events/Connect/2016/112?ocid=player)
+
+
 ### Log Analytics
+* NOTE: Log Analytics is now a part of Operations Management Suite.
+  * https://azure.microsoft.com/en-us/services/virtual-machines/secure-well-managed-iaas/
+* [Azure Log Analytics Feedback page](https://feedback.azure.com/forums/267889-log-analytics)
 * [Azure networking monitoring solutions in Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/azure-networking-analytics)
   * "Log Analytics offers the following solutions for monitoring your networks:"
     * "Network Performance Monitor (NPM) to"
@@ -78,6 +144,7 @@ Azure Logging & Log Analytics Resources
 	  * "Azure Network Security Group Analytics"
 
 * [Network monitoring solutions](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/azure-networking-analytics)
+
 
 
 
@@ -125,7 +192,17 @@ Azure Logging & Log Analytics Resources
 
 
   
-
+### Serilog
+* https://serilog.net/
+* https://github.com/serilog/serilog
+  * Simple .NET logging with fully-structured events
+  * "Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms. While it's useful even in the simplest applications, Serilog's support for structured logging shines when instrumenting complex, distributed, and asynchronous applications and systems."
+  * https://github.com/serilog/serilog/wiki/Getting-Started
+  * https://github.com/serilog/serilog/wiki
+* https://stackoverflow.com/questions/tagged/serilog
+* Articles
+  * 2016
+    * [2016-07-01 Application logging to Azure using SeriLog](https://cmatskas.com/application-logging-to-azure-using-serilog/)
 
 
 
