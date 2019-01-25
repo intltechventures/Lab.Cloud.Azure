@@ -62,6 +62,10 @@ Azure DevOps Resources
   * https://mva.microsoft.com/training-topics/devops#!lang=1033 
 
 
+### Slideshare presentations
+* 2018
+  * [2018-11-21 Azure DevOps ](https://www.slideshare.net/MichaelJesse2/azure-devops-123620920?qid=86ecee85-46a5-4c4c-bc67-30faaecabb81&v=&b=&from_search=11)
+
 
 
 ### Events and Talks
