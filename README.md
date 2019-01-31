@@ -260,10 +260,16 @@ Microsoft Azure Resources
 ### Azure Stack (for on-prem deployments)
 * https://azure.microsoft.com/en-us/overview/azure-stack/
   * https://azure.microsoft.com/en-us/resources/videos/microsoft-azure-stack-azure-services-on-premises/
-
+  * https://docs.microsoft.com/en-us/azure/azure-stack/asdk/asdk-deploy-considerations
+    * Note these minimums (as of 2019-01-30):
+      * 192 GB RAM
+      * Dual-Socket: 16 Physical Cores (total)
+      * 4 disks. Each disk provides a minimum of 240 GB of capacity (SSD or HDD). All available disks are used.
+      * 1 operating system disk with minimum of 200 GB available for system partition (SSD or HDD)
+      * You need more than this recommended capacity if you plan on adding many of the marketplace items from Azure
   
+
 ### Interesting Azure News Articles
-====
 * 2019
   * [2019-01-15 Azure Monitor logs in Grafana - now in public preview](https://azure.microsoft.com/en-us/blog/azure-monitor-logs-in-grafana-now-in-public-preview/)
     * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/grafana-plugin
