@@ -21,6 +21,7 @@ Azure Monitoring Resources
   * https://azure.microsoft.com/en-us/resources/videos/getting-started-with-application-insights/
   * https://feedback.azure.com/forums/558487-azure-government/suggestions/17201045-application-insights-in-azure-government
 	* "Application Insights is being deployed in Azure Government and expected to be available in CY19Q1 time frame."
+  * [Export telemetry from Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/export-telemetry)
 * Azure Operations Management Suite (OMS) 
   * https://azure.microsoft.com/en-us/services/virtual-machines/secure-well-managed-iaas/
     * (A subset of the capabilities described on this page were originally launched under the Operations Management Suite (OMS) brand and accessed from a standalone portal. These capabilities are now available in Azure.)
