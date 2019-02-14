@@ -34,6 +34,7 @@ Azure DevOps Resources
 
 ### News Sources
 * https://twitter.com/AzureDevOps
+* https://twitter.com/docsmsft
 * https://blogs.msdn.microsoft.com/devops/
 * https://docs.microsoft.com/en-us/azure/devops/release-notes/
 * https://azure.microsoft.com/en-us/community/events/devops/
