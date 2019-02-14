@@ -39,5 +39,10 @@ Microsoft Azure Cloud Support Resources
 * MSD Blog
   * 2018
     * https://blogs.msdn.microsoft.com/azuregov/2018/01/24/azure-standard-support-for-u-s-azure-government-customers/
+    * https://azure.microsoft.com/en-us/updates/azure-standard-support-updates/
+      * "the initial response time for critical support cases (severity A cases) is shortened from 2 hours to 1 hour for all Azure Standard support customers."
+      * "price of Azure Standard support is being dropped from $300 USD per month to $100 USD per month for eligible Azure customers."
+      * "Azure Standard support price remains unchanged for Enterprise Agreement customers."
+      * "Eligible Azure Government customers in the US who purchased or plan to purchase Azure Standard support directly from Azure.com under a Microsoft Online Subscription Agreement will see a price change from $375 USD per month to $125 USD per month. Current eligible Azure Government Standard support customers will receive a credit of $250 USD per month until their term renews with the new price of $125 USD per month."
   * 2013
-  * https://blogs.msdn.microsoft.com/mast/2013/10/14/windows-azure-support-how-it-works-and-how-to-receive-help/
+    * https://blogs.msdn.microsoft.com/mast/2013/10/14/windows-azure-support-how-it-works-and-how-to-receive-help/
