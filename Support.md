@@ -2,9 +2,22 @@
 Microsoft Azure Cloud Support Resources
 ====
 
+### Azure Status
+* https://azure.microsoft.com/en-us/status/
+
+
+### Incident Submission
+* https://azure.microsoft.com/en-us/support/create-ticket/
+
+
 ### References
 * https://azure.microsoft.com/en-us/support/plans/
 * https://azure.microsoft.com/en-us/support/plans/response/
+* https://azure.microsoft.com/en-us/support/options/
+
+
+### Social Media 
+* https://twitter.com/azuresupport
 
 
 ### CSP Support
