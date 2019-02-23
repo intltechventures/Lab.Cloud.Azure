@@ -10,5 +10,10 @@ Azure Training/Education Resources
   * [Microsoft Youtube Channels](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/channels)
   * [Azure DevOps](https://www.youtube.com/channel/UC-ikyViYMM69joIAv7dlMsA)
   * [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
-  
+
+
+### Twitter Resources
+* https://twitter.com/azurefriday
+
+
  
