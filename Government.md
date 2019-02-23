@@ -21,6 +21,11 @@ Azure Government Resources
 * https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/azure-government
 
 
+
+### Azure Government Functions/Serverless 
+* https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-compute#azure-functions
+  * "The Azure Functions service is now available (General Availability) for the Azure Government environment, with some differences, which you can read about below"
+
   
 ### Azure Government tagged Docker/Container related resources/articles
 * Microsoft
@@ -72,6 +77,10 @@ Azure Government Resources
 
 ### News
 * 2019 
+  * [2019-01-14: Serverless in Azure Government](https://blogs.msdn.microsoft.com/azuregov/2019/01/14/serverless-in-azure-government/)
+    * "Yujin and Steve then show demos of the serverless technologies that are available in Azure Government today, such as Azure Functions, Azure Event Grid, and Azure Logic Apps"
+
+
 * 2018
   * [2018-03-15 rivate Function Apps in Azure Government using App Service Environment (ASE)](https://blogs.msdn.microsoft.com/mihansen/2018/03/15/private-function-apps-in-azure-government-using-app-service-environment-ase/)
     * "It is easy to create APIs without having to worry about the underlying architecture and compute resources. In spite of the many advantages, they are not so easy to use for Government applications because they have a public endpoint that represents a potential attack surface and may be in conflict with Trusted Internet Connection (TIC) rules."
