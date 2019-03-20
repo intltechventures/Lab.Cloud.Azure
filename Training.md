@@ -2,6 +2,10 @@
 Azure Training/Education Resources
 ====
 
+### References
+* [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/) 
+
+
 ### Video
 * Channel 9
   * https://channel9.msdn.com/Shows/Azure-Friday
