@@ -11,6 +11,35 @@ Microsoft Azure Resources
 * https://azure.microsoft.com/en-us/status/
 * Azure products available by region
   * https://azure.microsoft.com/en-us/global-infrastructure/services/
+* https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
+  * https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+  * https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-comparison
+* https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-general
+  * https://azure.microsoft.com/en-us/pricing/details/virtual-machines/series/
+    * A-Series: Entry-level economical VMs for dev/test
+    * B-Series: Economical burstable VMs
+    * D-Series: General purpose compute
+    * DC-series: Protect data in use
+    * E-Series: Optimized for in-memory hyper-threaded applications
+    * F-Series: Compute optimized virtual machines
+    * G-Series: Memory and storage optimized virtual machines
+    * H-Series: High Performance Computing virtual machines
+    * Ls-Series: Storage optimized virtual machines
+    * M-Series: Largest memory optimized virtual machines
+    * N-Series: GPU enabled virtual machines
+    * ND-Serries: Designed for artificial intelligence (AI) and deep learning
+  * https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu
+    * "NC-series VMs are powered by the NVIDIA Tesla K80 card."  
+      * https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/Tesla-K80-BoardSpec-07317-001-v05.pdf
+    * "NCv2-series VMs are powered by NVIDIA Tesla P100 GPUs. These GPUs can provide more than 2x the computational performance of the NC-series."
+      * https://www.nvidia.com/en-us/data-center/tesla-p100/
+    * "NCv3-series VMs are powered by NVIDIA Tesla V100 GPUs. These GPUs can provide 1.5x the computational performance of the NCv2-series. "
+    * "NDv2-series virtual machine is a new addition to the GPU family designed for the needs of the HPC, AI, and machine learning workloads. It’s powered by 8 NVIDIA Tesla V100 NVLINK interconnected GPUs and 40 Intel Skylake cores and 672 GiB of system memory. NDv2 instance provides excellent FP32 and FP64 performance for HPC and AI workloads utilizing Cuda, TensorFlow, Pytorch, Caffe, and other frameworks."
+    * "The ND-series virtual machines are a new addition to the GPU family designed for AI, and Deep Learning workloads. They offer excellent performance for training and inference. ND instances are powered by NVIDIA Tesla P40 GPUs. The ND-series also offers a much larger GPU memory size (24 GB), enabling to fit much larger neural net models. Like the NC-series, the ND-series offers a configuration with a secondary low-latency, high-throughput network through RDMA, and InfiniBand connectivity so you can run large-scale training jobs spanning many GPUs."   
+    * "The NV-series virtual machines are powered by NVIDIA Tesla M60 GPUs and NVIDIA GRID technology for desktop accelerated applications and virtual desktops where customers are able to visualize their data or simulations."
+    * "The NVv2-series virtual machines are powered by NVIDIA Tesla M60 GPUs and NVIDIA GRID technology with Intel Broadwell CPUs. "
+
 * https://azure.microsoft.com/en-us/downloads/
 
 
