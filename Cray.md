@@ -3,6 +3,7 @@
 
 ## Azure Referneces
 - https://www.cray.com/solutions/supercomputing-as-a-service/cray-clusterstor-in-azure
+- https://www.cray.com/solutions/supercomputing-as-a-service/cray-in-azure/sentinel-cloud-supercomputing
 
 
 ## News
