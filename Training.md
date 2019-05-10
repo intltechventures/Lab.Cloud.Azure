@@ -3,7 +3,8 @@
 
 ## References
 - [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/) 
-- [Core Cloud Services - Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+- https://docs.microsoft.com/en-us/learn/
+  + [Core Cloud Services - Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 
 
 ## Video
