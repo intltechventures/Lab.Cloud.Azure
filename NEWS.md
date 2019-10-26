@@ -2,10 +2,14 @@
 # Interesting Microsoft Azure News 
 
 ## 2019
+- 2019-10-25 [Microsoft wins Pentagon’s $10 billion JEDI cloud contract, beating Amazon](https://www.marketwatch.com/story/microsoft-wins-pentagons-10-billion-jedi-cloud-contract-beating-amazon-2019-10-25?mod=home-page)
+
+
 - 2019-06-05 [Microsoft and Oracle to Interconnect Microsoft Azure and Oracle Cloud](https://www.oracle.com/corporate/pressrelease/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud-060519.html)
   + "Connect Azure and Oracle Cloud seamlessly, allowing customers to extend their on-premises datacenters to both clouds. This direct interconnect is available starting today in Ashburn (North America) and Azure US East, with plans to expand additional regions in the future."
 
   + "Unified identity and access management, via a unified single sign-on experience and automated user provisioning, to manage resources across Azure and Oracle Cloud. Also available in early preview today, Oracle applications can use Azure Active Directory as the identity provider and for conditional access."
+
 
 - 2019-04-11 [Much to Oracle’s chagrin, Pentagon names Microsoft and Amazon as $10B JEDI cloud contract finalists](https://techcrunch.com/2019/04/11/much-to-oracles-chagrin-pentagon-names-microsoft-and-amazon-as-10b-jedi-cloud-contract-finalists/)
 
