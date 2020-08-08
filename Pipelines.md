@@ -204,6 +204,23 @@
   + https://www.jenkins.io/doc/pipeline/steps/
 
 
+
+## Suggesited Books
+
+- Hands-on Azure Pipelines: Understanding Continuous Integration and Deployment in Azure DevOps 1st ed. Edition (July 2020)
+  + https://www.amazon.com/Hands-Azure-Pipelines-Understanding-Integration/dp/1484259017/
+
+- Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics Paperback – (April 2019)
+  + https://www.amazon.com/Agile-Project-Management-Azure-DevOps/dp/1484244826/
+  
+- Operations Anti-Patterns, DevOps Solutions, Jeffrey D. Smith, Manning Publications (MEAP, est. Fall 2020)
+  + https://www.manning.com/books/operations-anti-patterns-devops-solutions
+
+- Effective DevOps at Scale, Jennifer Davis, Ryan Daniels, O'Reilly Publishing (2016)
+  + https://azure.microsoft.com/en-us/resources/effective-devops/
+  + Note: 410 pages, *Free Book*
+  
+
 ## Articles of possible interst
 
 ### 2019
