@@ -1,5 +1,7 @@
 
 # Azure Build Pipelines
+- [My initial blog post, linking to this file](https://intltechventures.blogspot.com/2020/08/2020-08-08-saturday-researching-azure.html)
+- [My LinkedIn post](https://www.linkedin.com/posts/activity-6697999973352656896-u2ps/)
 
 ## References
 
@@ -205,7 +207,7 @@
 
 
 
-## Suggesited Books
+## Suggested Books
 
 - Hands-on Azure Pipelines: Understanding Continuous Integration and Deployment in Azure DevOps 1st ed. Edition (July 2020)
   + https://www.amazon.com/Hands-Azure-Pipelines-Understanding-Integration/dp/1484259017/
@@ -221,7 +223,7 @@
   + Note: 410 pages, *Free Book*
   
 
-## Articles of possible interst
+## Articles of possible interest
 
 ### 2019
 - How I Failed My Way to Success with Azure Pipelines
