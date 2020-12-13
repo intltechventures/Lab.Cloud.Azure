@@ -13,11 +13,14 @@ Microsoft Azure Resources
 
 ## References
 - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+
 - Azure products available by region
   + https://azure.microsoft.com/en-us/global-infrastructure/services/
+
 - https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview
   + https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
   + https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-comparison
+
 - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
   + https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-general
   + https://azure.microsoft.com/en-us/pricing/details/virtual-machines/series/
@@ -49,13 +52,21 @@ Microsoft Azure Resources
   
 ## Documentation
 - https://docs.microsoft.com/en-us/azure/
+
 - https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
+
 - https://azure.microsoft.com/en-us/campaigns/developer-guide/
+
 - https://docs.microsoft.com/en-us/azure/
+
 - Hybrid Connectivity Gateway
   + https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install
   + https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
+
 - https://github.com/MicrosoftDocs/azure-docs
+
+- https://microsoft.github.io/AzureTipsAndTricks/
+  + [Tip 297: Discovering the Azure Architecture Center](https://microsoft.github.io/AzureTipsAndTricks/blog/tip297.html)
 
   
 ## News
