@@ -53,7 +53,11 @@ Microsoft Azure Resources
 ## Documentation
 - https://docs.microsoft.com/en-us/azure/
 
-- https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
+- https://docs.microsoft.com/en-us/azure/architecture/
+  + https://docs.microsoft.com/en-us/azure/architecture/changelog
+  + https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+  + https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
+  + https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions
 
 - https://azure.microsoft.com/en-us/campaigns/developer-guide/
 
@@ -67,6 +71,21 @@ Microsoft Azure Resources
 
 - https://microsoft.github.io/AzureTipsAndTricks/
   + [Tip 297: Discovering the Azure Architecture Center](https://microsoft.github.io/AzureTipsAndTricks/blog/tip297.html)
+
+
+- https://docs.microsoft.com/en-us/azure/architecture/aws-professional/accounts
+  + "Azure subscriptions are a grouping of resources with an assigned owner
+    responsible for billing and permissions management. Unlike AWS, where any
+    resources created under the AWS account are tied to that account,
+    subscriptions exist independently of their owner accounts, and can be
+    reassigned to new owners as needed."
+  + Subscriptions are assigned three types of administrator accounts:
+    * Account Administrator
+    * Service Administrator
+    * Co-administrator
+  + "Like AWS accounts, subscriptions have default service quotas and limits.
+    For a full list of these limits, see Azure subscription and service limits,
+    quotas, and constraints."
 
   
 ## News
