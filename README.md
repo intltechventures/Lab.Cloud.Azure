@@ -12,6 +12,8 @@ Microsoft Azure Resources
 
 
 ## References
+- https://docs.microsoft.com/en-us/azure/architecture/icons/
+
 - https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
 
 - Azure products available by region
@@ -52,6 +54,9 @@ Microsoft Azure Resources
   
 ## Documentation
 - https://docs.microsoft.com/en-us/azure/
+  + - https://github.com/MicrosoftDocs/azure-docs
+
+- https://docs.microsoft.com/en-us/azure/architecture/icons/
 
 - https://docs.microsoft.com/en-us/azure/architecture/
   + https://docs.microsoft.com/en-us/azure/architecture/changelog
@@ -67,7 +72,7 @@ Microsoft Azure Resources
   + https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install
   + https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
-- https://github.com/MicrosoftDocs/azure-docs
+
 
 - https://microsoft.github.io/AzureTipsAndTricks/
   + [Tip 297: Discovering the Azure Architecture Center](https://microsoft.github.io/AzureTipsAndTricks/blog/tip297.html)
