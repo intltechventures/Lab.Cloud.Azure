@@ -73,6 +73,7 @@ Microsoft Azure Resources
   + https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-gateway-install#gateway-cloud-service
 
 
+- https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/
 
 - https://microsoft.github.io/AzureTipsAndTricks/
   + [Tip 297: Discovering the Azure Architecture Center](https://microsoft.github.io/AzureTipsAndTricks/blog/tip297.html)
